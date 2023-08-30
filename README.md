@@ -54,21 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jugnu-01/Jugnu-01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Jugnu-01/Jugnu-01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Jugnu-01/Jugnu-01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Jugnu-01/Jugnu-01/output/snake.svg" alt="Snake animation" />
-
-###
